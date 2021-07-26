@@ -1,6 +1,4 @@
   /*
-  # C. Fitzgerald-Carter (ID: 218447197)
-  # Class      : SIT315
   # Date       : 26.07.2021
   # Version    : 1.0
   # Details    :
